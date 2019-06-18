@@ -1,0 +1,9 @@
+name: my-sweet-environment
+channels:
+  - conda-forge
+dependencies:
+  - numpy
+  - pandas
+  - matplotlib
+  - seaborn
+  - altair
